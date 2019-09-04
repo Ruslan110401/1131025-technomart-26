@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Руслан Шарафутдинов](https://up.htmlacademy.ru/htmlcss/26/user/1131025).
-* Наставник: [Малик Киров :)](https://htmlacademy.ru/profile/id17217).
+* Наставник: [Малик Киров :-)](https://htmlacademy.ru/profile/id17217).
 
 ---
 
